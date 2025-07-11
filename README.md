@@ -1,0 +1,1 @@
+Este es un pequeño cajero. Puedes crear cuentas, hacer depositos y transferencias.
